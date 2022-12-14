@@ -1,0 +1,71 @@
+,index,Rental price,Deposit,Number rooms,Number floors,Number bathrooms,Surface area,Interior,House Type,Construction Year,Balcony,Deposit Rent ratio,1_x,1_y
+0,https://www.pararius.com/apartment-for-rent/amsterdam/d3eacdba/des-presstraat,2750.0,,4.0,3.0,2.0,92.0,,Apartment,1926.0,1,,Zuid,Zuid
+1,https://www.pararius.com/apartment-for-rent/amsterdam/5ca40c05/banstraat,2100.0,,2.0,1.0,1.0,75.0,Upholstered or furnished,Apartment,1910.0,1,,Zuid,Zuid
+2,https://www.pararius.com/apartment-for-rent/amsterdam/f5914e7a/ijselstraat,1800.0,3600.0,3.0,1.0,1.0,55.0,Upholstered,Apartment,1925.0,1,2.0,Zuid,Zuid
+3,https://www.pararius.com/apartment-for-rent/amsterdam/fa1457a2/lutmastraat,2400.0,4800.0,4.0,1.0,1.0,75.0,Furnished,Apartment,1921.0,0,2.0,Zuid,Zuid
+4,https://www.pararius.com/apartment-for-rent/amsterdam/0a20f4da/jan-willem-brouwersstraat,4200.0,,4.0,2.0,1.0,130.0,,Apartment,1899.0,1,,Zuid,Zuid
+5,https://www.pararius.com/house-for-rent/amsterdam/06953b2b/leimuidenstraat,2250.0,,3.0,,1.0,90.0,Upholstered,House,1931.0,1,,Zuid,Zuid
+6,https://www.pararius.com/apartment-for-rent/amsterdam/3c1501de/sloterkade,2050.0,4100.0,3.0,1.0,1.0,65.0,Upholstered,Apartment,1929.0,1,2.0,Zuid,Zuid
+7,https://www.pararius.com/apartment-for-rent/amsterdam/a84db78e/nicolaas-witsenkade,7950.0,,6.0,2.0,2.0,200.0,,Apartment,1897.0,0,,Zuid,Zuid
+8,https://www.pararius.com/apartment-for-rent/amsterdam/70509212/amstelkade,1900.0,3800.0,3.0,1.0,1.0,65.0,Upholstered,Apartment,1923.0,1,2.0,Zuid,Zuid
+9,https://www.pararius.com/house-for-rent/amsterdam/01281c89/amsteldijk,3000.0,6000.0,6.0,,,120.0,Furnished,House,,,2.0,Zuid,Zuid
+10,https://www.pararius.com/apartment-for-rent/amsterdam/4f4b88d9/nieuwe-spiegelstraat,2500.0,,3.0,2.0,1.0,90.0,Upholstered,Apartment,1991.0,1,,Centrum,Centrum
+11,https://www.pararius.com/apartment-for-rent/amsterdam/77047e95/lijnbaansgracht,2450.0,,3.0,,1.0,95.0,Furnished,Apartment,,0,,Centrum,Centrum
+12,https://www.pararius.com/apartment-for-rent/amsterdam/e8c6a1da/hazenstraat,2600.0,,3.0,3.0,2.0,90.0,Furnished,Apartment,1906.0,0,,Centrum,Centrum
+13,https://www.pararius.com/house-for-rent/amsterdam/fa414f19/kerkstraat,6350.0,,6.0,4.0,3.0,198.0,Upholstered,House,1672.0,0,,Centrum,Centrum
+14,https://www.pararius.com/apartment-for-rent/amsterdam/f76fee95/sarphatistraat,2250.0,4500.0,2.0,1.0,1.0,100.0,Furnished,Apartment,2005.0,1,2.0,Centrum,Centrum
+15,https://www.pararius.com/apartment-for-rent/amsterdam/20d07735/nieuwe-herengracht,2600.0,,3.0,,1.0,70.0,Furnished,Apartment,,1,,Centrum,Centrum
+16,https://www.pararius.com/apartment-for-rent/amsterdam/ed4c6c4a/krom-boomssloot,2150.0,4300.0,3.0,1.0,1.0,88.0,Furnished,Apartment,1723.0,0,2.0,Centrum,Centrum
+17,https://www.pararius.com/apartment-for-rent/amsterdam/3be8a993/herengracht,2475.0,4950.0,4.0,3.0,1.0,84.0,Upholstered,Apartment,1720.0,0,2.0,Centrum,Centrum
+18,https://www.pararius.com/apartment-for-rent/amsterdam/f1f1f4cd/willemsstraat,2400.0,,3.0,1.0,,90.0,,Apartment,2010.0,0,,Centrum,Centrum
+19,https://www.pararius.com/apartment-for-rent/amsterdam/6d2c546c/oostenburgervoorstraat,2200.0,4400.0,3.0,1.0,,67.0,,Apartment,1991.0,0,2.0,Centrum,Centrum
+20,https://www.pararius.com/house-for-rent/amsterdam/aaf7ede6/pasteurstraat,3000.0,,5.0,3.0,2.0,136.0,Furnished,House,2019.0,1,,Oost,Oost
+21,https://www.pararius.com/apartment-for-rent/amsterdam/7290bf31/tweede-oosterparkstraat,2100.0,,3.0,,2.0,84.0,Upholstered,Apartment,,0,,Oost,Oost
+22,https://www.pararius.com/apartment-for-rent/amsterdam/6dbc1af3/bankastraat,1600.0,,2.0,1.0,,60.0,,Apartment,1900.0,0,,Oost,Oost
+23,https://www.pararius.com/apartment-for-rent/amsterdam/ed3bd367/panamakade,2250.0,,5.0,2.0,,140.0,Furnished,Apartment,2007.0,0,,Oost,Oost
+24,https://www.pararius.com/apartment-for-rent/amsterdam/daa799ab/mary-van-der-sluisstraat,2500.0,5000.0,3.0,1.0,,88.0,,Apartment,2018.0,0,2.0,Oost,Oost
+25,https://www.pararius.com/apartment-for-rent/amsterdam/6c424ce9/esplanade-de-meer,2500.0,5000.0,3.0,1.0,,96.0,Furnished,Apartment,2002.0,,2.0,Oost,Oost
+26,https://www.pararius.com/apartment-for-rent/amsterdam/6ce962d1/amstelvlietstraat,1900.0,3800.0,2.0,1.0,1.0,58.0,Upholstered or furnished,Apartment,2013.0,1,2.0,Oost,Oost
+27,https://www.pararius.com/apartment-for-rent/amsterdam/24513399/ijburglaan,1900.0,,3.0,1.0,,96.0,,Apartment,2001.0,0,,Oost,Oost
+28,https://www.pararius.com/apartment-for-rent/amsterdam/6d5ee1c5/galileiplantsoen,3250.0,,4.0,,1.0,140.0,Upholstered,Apartment,,1,,Oost,Oost
+29,https://www.pararius.com/apartment-for-rent/amsterdam/c53392b0/veembroederhof,4500.0,,6.0,1.0,2.0,183.0,,Apartment,2006.0,1,,Oost,Oost
+30,https://www.pararius.com/apartment-for-rent/amsterdam/6e292cfd/hagedoornweg,1750.0,3500.0,2.0,1.0,1.0,30.0,Furnished,Apartment,1925.0,1,2.0,Noord,Noord
+31,https://www.pararius.com/house-for-rent/amsterdam/2138b5bc/klaprozenweg,2950.0,,5.0,2.0,1.0,207.0,,House,2005.0,0,,Noord,Noord
+32,https://www.pararius.com/house-for-rent/amsterdam/4c1a8402/moestuinlaan,4500.0,,10.0,2.0,3.0,200.0,Upholstered or furnished,House,2016.0,0,,Noord,Noord
+33,https://www.pararius.com/apartment-for-rent/amsterdam/86d1f095/grootzeil,1700.0,,3.0,,,73.0,Furnished,Apartment,1976.0,1,,Noord,Noord
+34,https://www.pararius.com/apartment-for-rent/amsterdam/e495bc56/jisperveldstraat,1850.0,3700.0,3.0,1.0,1.0,78.0,Furnished,Apartment,1968.0,1,2.0,Noord,Noord
+35,https://www.pararius.com/house-for-rent/amsterdam/c969a8ec/b-merkelbachsingel,1950.0,3900.0,3.0,1.0,1.0,83.0,Furnished,House,2015.0,1,2.0,Noord,Noord
+36,https://www.pararius.com/apartment-for-rent/amsterdam/54ace6e1/het-breed,1925.0,,2.0,1.0,1.0,62.0,,Apartment,1972.0,1,,Noord,Noord
+37,https://www.pararius.com/apartment-for-rent/amsterdam/708bbf92/marskramerstraat,2800.0,6000.0,6.0,2.0,2.0,189.0,Furnished,Apartment,2007.0,0,2.142857142857143,Noord,Noord
+38,https://www.pararius.com/apartment-for-rent/amsterdam/73f30a05/mercuriusplein,1240.0,,2.0,,1.0,47.0,Shell,Apartment,1924.0,0,,Noord,Noord
+39,https://www.pararius.com/house-for-rent/amsterdam/66cedbd4/noord-bevelandstraat,1900.0,3800.0,3.0,1.0,1.0,80.0,Furnished,House,1932.0,0,2.0,Noord,Noord
+40,https://www.pararius.com/apartment-for-rent/amsterdam/438b9e7f/ank-van-der-moerstraat,1395.0,,2.0,1.0,1.0,30.0,Furnished,Apartment,2018.0,0,,Nieuw-West,Nieuw-West
+41,https://www.pararius.com/apartment-for-rent/amsterdam/0e48434c/maassluisstraat,1900.0,3800.0,3.0,1.0,1.0,64.0,Furnished,Apartment,1965.0,1,2.0,Nieuw-West,Nieuw-West
+42,https://www.pararius.com/apartment-for-rent/amsterdam/29d96786/louis-davidsstraat,2250.0,,2.0,1.0,,60.0,,Apartment,1985.0,0,,Nieuw-West,Nieuw-West
+43,https://www.pararius.com/apartment-for-rent/amsterdam/65d3c370/geer-ban,3500.0,7000.0,5.0,2.0,1.0,135.0,,Apartment,2009.0,1,2.0,Nieuw-West,Nieuw-West
+44,https://www.pararius.nl/appartement-te-huur/amsterdam/9cf894a5/naritaweg,,,2.0,1.0,,87.0,Gestoffeerd,Appartement,2021.0,Niet aanwezig,,Nieuw-West,Nieuw-West
+45,https://www.pararius.com/apartment-for-rent/amsterdam/5a79f004/valkenisseweg,1850.0,1950.0,3.0,1.0,1.0,88.0,Furnished,Apartment,1996.0,1,1.054054054054054,Nieuw-West,Nieuw-West
+46,https://www.pararius.com/apartment-for-rent/amsterdam/06b50ab4/carnapstraat,1755.0,1820.0,2.0,1.0,,73.0,,Apartment,2015.0,1,1.037037037037037,Nieuw-West,Nieuw-West
+47,https://www.pararius.com/apartment-for-rent/amsterdam/1acb35ed/ladogameerhof,1750.0,3500.0,3.0,1.0,1.0,72.0,Upholstered or furnished,Apartment,1999.0,1,2.0,Nieuw-West,Nieuw-West
+48,https://www.pararius.com/house-for-rent/amsterdam/ecf72fea/parosstraat,1000.0,2000.0,9.0,1.0,3.0,250.0,Furnished,House,2003.0,0,2.0,Nieuw-West,Nieuw-West
+49,https://www.pararius.com/apartment-for-rent/amsterdam/6c80aa6d/sam-de-wolffstraat,2000.0,4000.0,3.0,1.0,1.0,94.0,,Apartment,1983.0,0,2.0,Nieuw-West,Nieuw-West
+50,https://www.pararius.com/apartment-for-rent/amsterdam/612853d9/anna-spenglerstraat,2900.0,,3.0,1.0,1.0,115.0,Furnished,Apartment,1891.0,0,,West,West
+51,https://www.pararius.com/apartment-for-rent/amsterdam/11817b40/jacob-van-lennepstraat,1800.0,,3.0,1.0,1.0,52.0,Furnished,Apartment,1900.0,1,,West,West
+52,https://www.pararius.com/apartment-for-rent/amsterdam/ff513bf4/tolbrugstraat,1500.0,1500.0,2.0,1.0,1.0,55.0,Upholstered or furnished,Apartment,1912.0,1,1.0,West,West
+53,https://www.pararius.com/apartment-for-rent/amsterdam/778b2f69/bilderdijkstraat,2500.0,5000.0,3.0,1.0,1.0,70.0,Upholstered or furnished,Apartment,1905.0,1,2.0,West,West
+54,https://www.pararius.com/apartment-for-rent/amsterdam/a7e63712/nassaukade,2250.0,3000.0,2.0,,,85.0,Furnished,Apartment,1984.0,1,1.3333333333333333,West,West
+55,https://www.pararius.com/apartment-for-rent/amsterdam/6a08d395/vondelstraat,2000.0,,3.0,1.0,1.0,100.0,Furnished,Apartment,1934.0,1,,West,West
+56,https://www.pararius.com/apartment-for-rent/amsterdam/53c38ba3/frederik-hendrikstraat,1750.0,,2.0,1.0,1.0,75.0,,Apartment,1905.0,0,,West,West
+57,https://www.pararius.com/apartment-for-rent/amsterdam/d8047045/jan-van-galenstraat,1850.0,,3.0,,1.0,53.0,Upholstered,Apartment,,0,,West,West
+58,https://www.pararius.com/apartment-for-rent/amsterdam/9b0230a6/wiltzanghlaan,2150.0,4300.0,3.0,1.0,1.0,75.0,Furnished,Apartment,1912.0,0,2.0,West,West
+59,https://www.pararius.com/apartment-for-rent/amsterdam/eb66a077/joan-melchior-kemperstraat,2400.0,,3.0,1.0,1.0,85.0,Upholstered,Apartment,1906.0,1,,West,West
+60,https://www.pararius.com/apartment-for-rent/amsterdam/a8387137/haardstee,1550.0,,4.0,1.0,1.0,85.0,,Apartment,1984.0,1,,Zuidoost,Zuidoost
+61,https://www.pararius.com/apartment-for-rent/amsterdam/d920edb2/leerdamhof,1500.0,,2.0,,1.0,70.0,Furnished,Apartment,1980.0,1,,Zuidoost,Zuidoost
+62,https://www.pararius.com/apartment-for-rent/amsterdam/4af79cbc/kleiburg,1595.0,,3.0,1.0,,68.0,,Apartment,1971.0,1,,Zuidoost,Zuidoost
+63,https://www.pararius.com/studio-for-rent/amsterdam/d886ac17/elizabeth-cady-stantonplein,,1200.0,1.0,,,30.0,Upholstered,Studio,,0,,Zuidoost,Zuidoost
+64,https://www.pararius.com/apartment-for-rent/amsterdam/500f55df/klaroenstraat,1700.0,3400.0,3.0,1.0,1.0,80.0,Upholstered,Apartment,2011.0,1,2.0,Zuidoost,Zuidoost
+65,https://www.pararius.com/house-for-rent/amsterdam/02d81ad9/randwijkhof,1950.0,3900.0,4.0,2.0,1.0,94.0,Furnished,House,1993.0,0,2.0,Zuidoost,Zuidoost
+66,https://www.pararius.com/apartment-for-rent/amsterdam/8b28f3d3/vleutenstraat,1650.0,,3.0,1.0,1.0,71.0,Furnished,Apartment,1982.0,1,,Zuidoost,Zuidoost
+67,https://www.pararius.com/apartment-for-rent/amsterdam/68b0ba9d/dantestraat,1500.0,,3.0,1.0,1.0,60.0,Furnished,Apartment,1984.0,1,,Zuidoost,Zuidoost
+68,https://www.pararius.com/apartment-for-rent/amsterdam/a6d201d2/gouden-leeuw,2000.0,,5.0,,1.0,106.0,Upholstered,Apartment,1974.0,1,,Zuidoost,Zuidoost
+69,https://www.pararius.com/studio-for-rent/amsterdam/6d4d3d3c/schaarsbergenstraat,1200.0,2400.0,1.0,1.0,1.0,34.0,Upholstered,Studio,1981.0,1,2.0,Zuidoost,Zuidoost
